@@ -35,4 +35,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://marianabaesso.github.io/jabuti-labs/sitemap.xml
+Sitemap: https://jabutilabs.com/sitemap.xml
