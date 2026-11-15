@@ -1,14 +1,15 @@
 # Jabuti Labs
 
-> A Jabuti Labs cria soluções de tecnologia do tamanho do seu negócio: sites, chatbots com IA e automações. São três soluções independentes: o cliente contrata só o que precisa e soma outra depois, se quiser. Atende no Brasil e no exterior, em português e inglês, com proposta de escopo fechado em 1 dia útil.
+> A Jabuti Labs cria soluções de tecnologia do tamanho do seu negócio: sites, chatbots com IA, automações, sistemas e o que mais o negócio precisar. O cliente contrata só o que precisa, e cada solução se encaixa no que já existe. Atende no Brasil e no exterior, em português e inglês, com proposta de escopo fechado em 1 dia útil.
 
 Site: https://marianabaesso.github.io/jabuti-labs/
 
-## Soluções de tecnologia
+## Soluções de tecnologia (alguns exemplos)
 
 - **Site que traz cliente**: página rápida, feita para celular e para aparecer no Google quando alguém procura o que o negócio faz. O cliente diz o que vende; a Jabuti Labs escreve e monta.
 - **Chatbot com IA**: atende no WhatsApp, Telegram, Instagram ou no próprio site. Responde preço, horário, endereço e agendamento com as palavras do dono do negócio; o que não sabe, encaminha para uma pessoa com a conversa organizada.
 - **Automação**: confirmação de horário, lembrete no dia anterior, aviso de retorno, planilha atualizada — tarefas repetidas que passam a acontecer sozinhas.
+- **E o que mais o seu negócio precisar**: painel com os números do mês, sistema de orçamento, integração entre ferramentas que não conversam. Se é manual, repetido ou confuso, a gente desenha a solução de tecnologia para isso.
 
 ## Como funciona
 
