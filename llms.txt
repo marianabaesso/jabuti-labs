@@ -1,12 +1,12 @@
-# KIVO
+# Jabuti Labs
 
-> A KIVO cria sites, chatbots com IA e automações para pequenos negócios no Brasil. Três serviços independentes: o cliente contrata só o que precisa e soma outro depois, se quiser. Atende em português e inglês, com proposta de escopo fechado em 1 dia útil.
+> A Jabuti Labs cria sites, chatbots com IA e automações para pequenos negócios no Brasil. Três serviços independentes: o cliente contrata só o que precisa e soma outro depois, se quiser. Atende em português e inglês, com proposta de escopo fechado em 1 dia útil.
 
-Site: https://marianabaesso.github.io/kivo/
+Site: https://marianabaesso.github.io/jabuti-labs/
 
 ## Serviços
 
-- **Site que traz cliente**: página rápida, feita para celular e para aparecer no Google quando alguém procura o que o negócio faz. O cliente diz o que vende; a KIVO escreve e monta.
+- **Site que traz cliente**: página rápida, feita para celular e para aparecer no Google quando alguém procura o que o negócio faz. O cliente diz o que vende; a Jabuti Labs escreve e monta.
 - **Chatbot com IA**: atende no WhatsApp, Telegram, Instagram ou no próprio site. Responde preço, horário, endereço e agendamento com as palavras do dono do negócio; o que não sabe, encaminha para uma pessoa com a conversa organizada.
 - **Automação**: confirmação de horário, lembrete no dia anterior, aviso de retorno, planilha atualizada — tarefas repetidas que passam a acontecer sozinhas.
 
@@ -15,7 +15,7 @@ Site: https://marianabaesso.github.io/kivo/
 1. O cliente preenche um briefing curto (poucos minutos, pelo celular).
 2. Uma call para entender o que vale resolver primeiro.
 3. Proposta por escrito com escopo, prazo e valor, sem compromisso.
-4. Com a proposta aprovada, a KIVO coloca no ar, ensina a usar e segue acompanhando.
+4. Com a proposta aprovada, a Jabuti Labs coloca no ar, ensina a usar e segue acompanhando.
 
 ## Para quem
 
