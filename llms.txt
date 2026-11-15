@@ -1,10 +1,10 @@
 # Jabuti Labs
 
-> A Jabuti Labs cria sites, chatbots com IA e automações para pequenos negócios no Brasil. Três serviços independentes: o cliente contrata só o que precisa e soma outro depois, se quiser. Atende em português e inglês, com proposta de escopo fechado em 1 dia útil.
+> A Jabuti Labs cria soluções de tecnologia do tamanho do seu negócio: sites, chatbots com IA e automações. São três soluções independentes: o cliente contrata só o que precisa e soma outra depois, se quiser. Atende no Brasil e no exterior, em português e inglês, com proposta de escopo fechado em 1 dia útil.
 
 Site: https://marianabaesso.github.io/jabuti-labs/
 
-## Serviços
+## Soluções de tecnologia
 
 - **Site que traz cliente**: página rápida, feita para celular e para aparecer no Google quando alguém procura o que o negócio faz. O cliente diz o que vende; a Jabuti Labs escreve e monta.
 - **Chatbot com IA**: atende no WhatsApp, Telegram, Instagram ou no próprio site. Responde preço, horário, endereço e agendamento com as palavras do dono do negócio; o que não sabe, encaminha para uma pessoa com a conversa organizada.
@@ -19,7 +19,7 @@ Site: https://marianabaesso.github.io/jabuti-labs/
 
 ## Para quem
 
-Negócios pequenos — restaurantes, estúdios, clínicas, escritórios, profissionais liberais — que querem atender melhor e fazer menos trabalho manual, sem precisar entender de tecnologia.
+Negócios que querem tecnologia de empresa grande, do tamanho do seu negócio — restaurantes, estúdios, clínicas, escritórios, profissionais liberais — para atender melhor e fazer menos trabalho manual, sem precisar entender de tecnologia.
 
 ## Clientes
 
